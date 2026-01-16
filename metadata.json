@@ -1,0 +1,8 @@
+{
+  "name": "SRAD Secure - Mission Critical 24x7",
+  "description": "Sistema regional de vigilância de alta performance com controle geofencing, conformidade noturna e auditoria imutável.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
